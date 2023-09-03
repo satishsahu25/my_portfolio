@@ -48,9 +48,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Responsive Fitness Website</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://hbx.netlify.app/" className="ad-btn">
+               <Link to="https://hbx.netlify.app/" className="adss-btn">
                   Live
-                </Link><Link to="https://github.com/satishsahu25/Online-Fitness-Website-Frontend" className="ad-btn">
+                </Link><Link to="https://github.com/satishsahu25/Online-Fitness-Website-Frontend" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -82,9 +82,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Business Analysis Dashboard</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://businessadmindashboard.netlify.app/" className="ad-btn">
+               <Link to="https://businessadmindashboard.netlify.app/" className="adss-btn">
                   Live
-                </Link><Link to="https://github.com/satishsahu25/business_dashboard" className="ad-btn">
+                </Link><Link to="https://github.com/satishsahu25/business_dashboard" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -116,9 +116,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Trainer Goes Online</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://trainergoesonline.netlify.app/" className="ad-btn">
+               <Link to="https://trainergoesonline.netlify.app/" className="adss-btn">
                   Live
-                </Link><Link to="https://github.com/codesat/TrainerGoesOnline" className="ad-btn">
+                </Link><Link to="https://github.com/codesat/TrainerGoesOnline" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -150,9 +150,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Smart Eye | Facial Attendance SOftware</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/smart_eye" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/smart_eye" className="adss-btn">
                   Live
-                </Link><Link to="https://github.com/satishsahu25/smart_eye" className="ad-btn">
+                </Link><Link to="https://github.com/satishsahu25/smart_eye" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -188,9 +188,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">MERN STACK CRUD OPERATION</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/fyzen" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/fyzen" className="adss-btn">
                   Live
-                </Link><Link to="https://github.com/satishsahu25/fyzen" className="ad-btn">
+                </Link><Link to="https://github.com/satishsahu25/fyzen" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -222,9 +222,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Book Recommender System</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/Book-Recommendation-System" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/Book-Recommendation-System" className="adss-btn">
                   Live
-                </Link><Link to="https://github.com/satishsahu25/Book-Recommendation-System" className="ad-btn">
+                </Link><Link to="https://github.com/satishsahu25/Book-Recommendation-System" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -254,9 +254,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Home Page Design</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/Responsive-Home-Page" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/Responsive-Home-Page" className="adss-btn">
                   Live
-                </Link><Link to="https://github.com/satishsahu25/Responsive-Home-Page" className="ad-btn">
+                </Link><Link to="https://github.com/satishsahu25/Responsive-Home-Page" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -286,9 +286,9 @@ const Moreprojects = () => {
                   <div className="text-uppercase">MMM Hall Website</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://admiring-sinoussi-9c0272.netlify.app/" className="ad-btn">
+               <Link to="https://admiring-sinoussi-9c0272.netlify.app/" className="adss-btn">
                   Live
-                </Link><Link to="https://admiring-sinoussi-9c0272.netlify.app/" className="ad-btn">
+                </Link><Link to="https://admiring-sinoussi-9c0272.netlify.app/" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -319,10 +319,10 @@ const Moreprojects = () => {
                   <div className="text-uppercase">InIITKGP Android App</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/InIITKGP-Android-Application" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/InIITKGP-Android-Application" className="adss-btn">
                   Live
                 </Link>
-                <Link to="https://github.com/satishsahu25/InIITKGP-Android-Application" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/InIITKGP-Android-Application" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -354,10 +354,10 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Quizzer Android App</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/Quizzer" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/Quizzer" className="adss-btn">
                   Live
                 </Link>
-                <Link to="https://github.com/satishsahu25/Quizzer" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/Quizzer" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -388,10 +388,10 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Portfolio Showcase</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/djangodeploy" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/djangodeploy" className="adss-btn">
                   Live
                 </Link>
-                <Link to="https://github.com/satishsahu25/djangodeploy" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/djangodeploy" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -423,10 +423,10 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Ghoomo | React Native App</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/Ghoomo" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/Ghoomo" className="adss-btn">
                   Live
                 </Link>
-                <Link to="https://github.com/satishsahu25/Ghoomo" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/Ghoomo" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -460,10 +460,10 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Techwonde Project | React Native App</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://github.com/satishsahu25/Tech_wonde" className="ad-btn">
+               <Link to="https://github.com/satishsahu25/Tech_wonde" className="adss-btn">
                   Live
                 </Link>
-                <Link to="https://github.com/satishsahu25/Tech_wonde" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/Tech_wonde" className="adss-btn">
                   Code
                 </Link>
                </div>
@@ -497,10 +497,10 @@ const Moreprojects = () => {
                   <div className="text-uppercase">Online Course Selling Website</div>
                 </div>
                <div className="d-flex">
-               <Link to="https://secureblink.netlify.app/" className="ad-btn">
+               <Link to="https://secureblink.netlify.app/" className="adss-btn">
                   Live
                 </Link>
-                <Link to="https://github.com/satishsahu25/secureblink" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/secureblink" className="adss-btn">
                   Code
                 </Link>
                </div>
