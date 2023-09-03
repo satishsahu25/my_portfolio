@@ -1,0 +1,43 @@
+.mobile-nav{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.mob-nav-header{
+    height: 50px;
+    width: 100%;
+    background-color: #858484;
+    padding: 8px;
+}
+.mob-nav-title{
+    margin-left: 20px;
+    color: #f29f67;
+    font-weight: bold;
+    text-transform: capitalize;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+.mob-nav-icon{
+    color: white;
+    cursor: pointer;
+}
+.mob-nav-menu .nav-items{
+        height: auto;
+        width: 200px;
+        background-color: #1e1e1e;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        border-bottom-right-radius: 20px;
+}
+
+
+
+@media (min-width:600px){
+    .mobile-nav{
+        display: none;
+    }
+}

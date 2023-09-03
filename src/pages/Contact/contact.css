@@ -1,0 +1,95 @@
+.contact{
+    margin: 50px 0px;
+    margin-left: 130px;
+}
+.contact h2{
+    font-weight: bold;
+    color: #138781;
+}
+.contact hr{
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+.card0{
+    border: 1px solid gray;
+}
+
+.card2{
+    margin: 0px 40px;
+}
+.card1 .img{
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    padding-top: 70px;
+}
+.line{
+    height: 1px;
+    width: 45%;
+    background-color: #e0e0e0;
+    margin-top: 10px;
+}
+
+.or{
+    display: flex;
+    width: 10%;
+    font-weight: bold;
+}
+::placeholder{
+    color: #bdbdbdbd;
+    opacity: 1;
+    font-weight: 300;
+}
+
+input,textarea{
+    padding: 10px 12px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+    color: #138781;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+input:focus,textarea:focus{
+    box-shadow:none !important ;
+    outline: 1px solid #138781 !important;
+    outline-width:0px ;
+}
+button:focus{
+   box-shadow: none!important;
+   outline-width: 0px; 
+}
+.submit-btn{
+    background-color: #138781;
+    color: white;
+   border: none;
+    padding: 10px;
+    margin-top: 15px;
+}
+.submit-btn:hover{
+    background-color: #fff;
+    color: #138781;
+}
+
+
+@media (max-width:600px){
+    .contact{
+        margin: 0;
+        padding: 0;
+        /* margin-top: 50px; */
+        margin-bottom: 20px;
+    }
+    .contact hr{
+        width: 280px;
+    }
+    .contact .card2 h6{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+
+}

@@ -1,0 +1,37 @@
+.education{
+    margin: 50px 0px;
+    margin-left: 130px;
+    background: #201f1f15;
+}
+
+.education hr{
+    color: black;
+    width: 400px;
+    margin: 10px auto;
+}
+.education h2{
+    padding-top: 20px;
+    font-weight: bold;
+    color: black;
+}
+.education .vertical-timeline-element-title{
+    color: black;
+}
+.education .vertical-timeline-element-subtitle{
+    color: black;
+    font-style: italic;
+}
+
+@media (max-width:600px){
+    .education{
+        margin: 0;
+        padding: 0;
+    }
+    .education h2{
+        padding-top: 20px;
+    }
+    .education hr{
+        width: 250px;
+        margin-bottom: 20px;
+    }
+}
