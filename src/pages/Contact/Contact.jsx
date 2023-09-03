@@ -91,7 +91,7 @@ const Contact = () => {
                       placeholder="Write your message"
                     />
                   </div>
-                  <div className="row px-3">
+                  <div className="row px-3 mobilebtn">
                     <Link to={`https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=satishk7619@gmail.com&body=My name is ${name} . I want to contact you regarding ${body}. My email address is ${email}`}>
                     <button className="submit-btn" type="submit">
                       SEND MESSAGE
