@@ -41,7 +41,7 @@ const Projects = () => {
                 <div className="ad-title m-auto">
                   <div className="text-uppercase">Realtime Chat Application</div>
                 </div>
-                <Link to="https://github.com/satishsahu25/chatty" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/chatty" className="adss-btn">
                   View
                 </Link>
               </div>
@@ -71,13 +71,12 @@ const Projects = () => {
                 <div className="ad-title m-auto">
                   <div className="text-uppercase">Exincome Tracker</div>
                 </div>
-                <Link to="https://github.com/satishsahu25/Exincome_frontend" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/Exincome_frontend" className="adss-btn">
                   View
                 </Link>
               </div>
             </div>
           </div>  
-          
           <div className="col-md-4">
             <div className="card rounded">
               <div className="card-img">
@@ -100,7 +99,7 @@ const Projects = () => {
                 <div className="ad-title m-auto">
                   <div className="text-uppercase">Responsive Portfolio</div>
                 </div>
-                <Link to="https://github.com/satishsahu25/satishsahu_portfolio" className="ad-btn">
+                <Link to="https://github.com/satishsahu25/satishsahu_portfolio" className="adss-btn">
                  View
                 </Link>
               </div>
@@ -109,7 +108,7 @@ const Projects = () => {
 
         </div>
         {/* view more btn */}
-        <div className="morebtn">
+        <div>
         <Link to="/more" className="more-btn">
                   👉 View more Projects
               </Link>
