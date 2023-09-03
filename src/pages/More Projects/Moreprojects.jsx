@@ -470,6 +470,43 @@ const Moreprojects = () => {
               </div>
             </div>
           </div>
+          {/* 14 */}
+          <div className="col-md-4 eachcard android">
+            <div className="card rounded">
+              <div className="card-img">
+                <span className="card-notify-badge">Frontend</span>
+                <img
+                  src="https://res.cloudinary.com/codercloud/image/upload/v1693729835/Screenshot_1305_tmqfqt.png"
+                  alt="project1"
+                />
+              </div>
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">Css</span>
+                <span className="card-detail-badge">Html</span>
+                <span className="card-detail-badge">Axios</span>
+                <span className="card-detail-badge">RestAPI</span>
+                <span className="card-detail-badge">ReactJS</span>
+                <span className="card-detail-badge">TypeScript</span>
+                <span className="card-detail-badge">Scss</span>
+                <span className="card-detail-badge">VueJS</span>
+                <span className="card-detail-badge">Bootstrap</span>
+              </div>
+
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <div className="text-uppercase">Online Course Selling Website</div>
+                </div>
+               <div className="d-flex">
+               <Link to="https://secureblink.netlify.app/" className="ad-btn">
+                  Live
+                </Link>
+                <Link to="https://github.com/satishsahu25/secureblink" className="ad-btn">
+                  Code
+                </Link>
+               </div>
+              </div>
+            </div>
+          </div>
 
        
 
