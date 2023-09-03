@@ -40,7 +40,9 @@ const Menu = ({ toggle }) => {
                   <IoIosSchool />
                   Education
                 </Link>
-              </div>
+              </div>    
+              
+
               <div className="nav-link">
                 <Link to="expsection" spy={true} smooth={true} offset={-100} duration={100}>
                   <GiNetworkBars />

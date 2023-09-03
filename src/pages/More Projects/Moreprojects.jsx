@@ -296,7 +296,7 @@ const Moreprojects = () => {
             </div>
           </div>    
           {/* 9 */}
-          <div className="col-md-4 eachcard android">
+          <div className="col-md-4 eachcard">
             <div className="card rounded">
               <div className="card-img">
                 <span className="card-notify-badge">Android</span>
@@ -330,7 +330,7 @@ const Moreprojects = () => {
             </div>
           </div>    
           {/* 10 */}
-          <div className="col-md-4 eachcard android">
+          <div className="col-md-4 eachcard">
             <div className="card rounded">
               <div className="card-img">
                 <span className="card-notify-badge">Android & ios</span>
@@ -365,7 +365,7 @@ const Moreprojects = () => {
             </div>
           </div>  
           {/* 11  */}
-          <div className="col-md-4 eachcard android">
+          <div className="col-md-4 eachcard">
             <div className="card rounded">
               <div className="card-img">
                 <span className="card-notify-badge">Django</span>
@@ -399,7 +399,7 @@ const Moreprojects = () => {
             </div>
           </div>  
           {/* 12 */}
-          <div className="col-md-4 eachcard android">
+          <div className="col-md-4 eachcard">
             <div className="card rounded">
               <div className="card-img">
                 <span className="card-notify-badge">Android & ios</span>
@@ -434,7 +434,7 @@ const Moreprojects = () => {
             </div>
           </div> 
           {/* 13     */}
-          <div className="col-md-4 eachcard android">
+          <div className="col-md-4 eachcard">
             <div className="card rounded">
               <div className="card-img">
                 <span className="card-notify-badge">Android & ios</span>
