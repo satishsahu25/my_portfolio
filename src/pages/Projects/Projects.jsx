@@ -100,7 +100,7 @@ const Projects = () => {
                 <div className="ad-title m-auto">
                   <div className="text-uppercase">Responsive Portfolio</div>
                 </div>
-                <Link to="https://github.com/satishsahu25/satishsahu_portfolio" className="more-btn">
+                <Link to="https://github.com/satishsahu25/satishsahu_portfolio" className="ad-btn">
                  View
                 </Link>
               </div>
