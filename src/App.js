@@ -6,7 +6,6 @@ import Moreprojects from "./pages/More Projects/Moreprojects";
 
 function App() {
   return (
-    <>
     <BrowserRouter>
     <Routes>
       <Route path="/" element={<FullHome/>}/>
@@ -14,7 +13,6 @@ function App() {
     </Routes>
     </BrowserRouter>
      
-    </>
   );
 }
 
