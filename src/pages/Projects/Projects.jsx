@@ -41,7 +41,7 @@ const Projects = () => {
                 <div className="ad-title m-auto">
                   <div className="text-uppercase">Realtime Chat Application</div>
                 </div>
-                <Link to="https://github.com/satishsahu25/chatty" className="adss-btn">
+                <Link to="https://chattyfn.onrender.com/" className="adss-btn">
                   View
                 </Link>
               </div>
