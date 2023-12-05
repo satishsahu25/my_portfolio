@@ -508,6 +508,39 @@ const Moreprojects = () => {
             </div>
           </div>
 
+           <div className="col-md-4 eachcard">
+            <div className="card rounded">
+              <div className="card-img">
+                <span className="card-notify-badge">Frontend</span>
+                <img
+                  src="https://res.cloudinary.com/codercloud/image/upload/v1660577408/github/Screenshot_294_ol3ej1.png"
+                  alt="project1"
+                />
+              </div>
+
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">React</span>
+                <span className="card-detail-badge">HTML</span>
+                <span className="card-detail-badge">Css</span>
+                <span className="card-detail-badge">Motion</span>
+                <span className="card-detail-badge">Bootstrap</span>
+                <span className="card-detail-badge">JavaScript</span>
+              </div>
+
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <div className="text-uppercase">Responsive Fitness Website</div>
+                </div>
+               <div className="d-flex">
+               <Link to="https://hbx.netlify.app/" className="adss-btn">
+                  Live
+                </Link><Link to="https://github.com/satishsahu25/Online-Fitness-Website-Frontend" className="adss-btn">
+                  Code
+                </Link>
+               </div>
+              </div>
+            </div>
+          </div>     
        
 
         </div>
