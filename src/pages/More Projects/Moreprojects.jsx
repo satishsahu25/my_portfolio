@@ -45,10 +45,11 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                Hwlof
-{/*                 <div className="ad-title m-auto">
+              
+{/*                 <div className="ad-title m-auto"> */}
+             <div className="m-auto"> 
                   <div className="text-uppercase">Basic Omegle Chatting Website</div>
-                </div> */}
+                </div>
                <div className="d-flex">
                <Link to="https://funwithstrangers.onrender.com/" className="adss-btn">
                   Live
