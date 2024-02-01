@@ -373,7 +373,7 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <d <div className="m-auto"> 
+            <div className="m-auto"> 
                   <div >MMM Hall Website</div>
                 </div>
                <div className="d-flex">
