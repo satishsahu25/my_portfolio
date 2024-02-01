@@ -27,7 +27,7 @@ const Moreprojects = () => {
            <div className="col-md-4 eachcard">
             <div className="card rounded">
               <div className="card-img">
-                <span >Video Chatting Website</span>
+                <span className="card-notify-badge">Video Chatting Website</span>
                 <img
                   src="https://res.cloudinary.com/codercloud/image/upload/v1706793491/Screenshot_3165_vtzrtk.png"
                   alt="project-1"
@@ -93,8 +93,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Responsive Ecommerce Website with Admin Panel </div>
+               <div className="m-auto"> 
+                  <div >Responsive Ecommerce Website with Admin Panel </div>
                 </div>
                <div className="d-flex">
                <Link to="https://ebuy-three.vercel.app/" className="adss-btn">
@@ -132,8 +132,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Responsive Fitness Website</div>
+                 <div className="m-auto"> 
+                  <div >Responsive Fitness Website</div>
                 </div>
                <div className="d-flex">
                <Link to="https://hbx.netlify.app/" className="adss-btn">
@@ -166,8 +166,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Business Analysis Dashboard</div>
+                 <div className="m-auto"> 
+                  <div >Business Analysis Dashboard</div>
                 </div>
                <div className="d-flex">
                <Link to="https://businessadmindashboard.netlify.app/" className="adss-btn">
@@ -200,8 +200,11 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Trainer Goes Online</div>
+{/*                 <div className="ad-title m-auto">
+                  <div className="text-uppercase"> */}
+                 <div className="m-auto"> 
+                  <div >
+                    Trainer Goes Online</div>
                 </div>
                <div className="d-flex">
                <Link to="https://trainergoesonline.netlify.app/" className="adss-btn">
@@ -234,8 +237,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Smart Eye | Facial Attendance SOftware</div>
+                 <div className="m-auto"> 
+                  <div >Smart Eye | Facial Attendance SOftware</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/smart_eye" className="adss-btn">
@@ -272,8 +275,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">MERN STACK CRUD OPERATION</div>
+                <div className="m-auto"> 
+                  <div >MERN STACK CRUD OPERATION</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/fyzen" className="adss-btn">
@@ -306,8 +309,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Book Recommender System</div>
+                <div className="m-auto"> 
+                  <div >Book Recommender System</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/Book-Recommendation-System" className="adss-btn">
@@ -338,8 +341,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Home Page Design</div>
+                <div className="m-auto"> 
+                  <div >Home Page Design</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/Responsive-Home-Page" className="adss-btn">
@@ -370,8 +373,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">MMM Hall Website</div>
+                <d <div className="m-auto"> 
+                  <div >MMM Hall Website</div>
                 </div>
                <div className="d-flex">
                <Link to="https://admiring-sinoussi-9c0272.netlify.app/" className="adss-btn">
@@ -403,8 +406,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">InIITKGP Android App</div>
+                <div className="m-auto"> 
+                  <div >InIITKGP Android App</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/InIITKGP-Android-Application" className="adss-btn">
@@ -438,8 +441,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Quizzer Android App</div>
+                <div className="m-auto"> 
+                  <div >Quizzer Android App</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/Quizzer" className="adss-btn">
@@ -472,8 +475,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Portfolio Showcase</div>
+                 <div className="m-auto"> 
+                  <div >Portfolio Showcase</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/djangodeploy" className="adss-btn">
@@ -507,8 +510,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Ghoomo | React Native App</div>
+                <div className="m-auto"> 
+                  <div >Ghoomo | React Native App</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/Ghoomo" className="adss-btn">
@@ -544,8 +547,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Techwonde Project | React Native App</div>
+               <div className="m-auto"> 
+                  <div >Techwonde Project | React Native App</div>
                 </div>
                <div className="d-flex">
                <Link to="https://github.com/satishsahu25/Tech_wonde" className="adss-btn">
@@ -581,8 +584,8 @@ const Moreprojects = () => {
               </div>
 
               <div className="card-body text-center">
-                <div className="ad-title m-auto">
-                  <div className="text-uppercase">Online Course Selling Website</div>
+                <div className="m-auto"> 
+                  <div >Online Course Selling Website</div>
                 </div>
                <div className="d-flex">
                <Link to="https://secureblink.netlify.app/" className="adss-btn">
