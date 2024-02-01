@@ -24,6 +24,48 @@ const Moreprojects = () => {
         <div className="row" id="ads">
         {/* cards */}
 
+           <div className="col-md-4 eachcard">
+            <div className="card rounded">
+              <div className="card-img">
+                <span className="card-notify-badge">Video Chatting Website</span>
+                <img
+                  src="https://res.cloudinary.com/codercloud/image/upload/v1706793491/Screenshot_3165_vtzrtk.png"
+                  alt="project-1"
+                />
+              </div>
+
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">HTML</span>
+                <span className="card-detail-badge">Css</span>
+                 <span className="card-detail-badge">Socket.io</span>
+                <span className="card-detail-badge">STUN/TURN</span>
+                <span className="card-detail-badge">Bootstrap</span>
+                <span className="card-detail-badge">JavaScript</span>
+                <span className="card-detail-badge">WebRTC</span>
+              </div>
+
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <div className="text-uppercase">Basic Omegle Chatting Website</div>
+                </div>
+               <div className="d-flex">
+               <Link to="https://funwithstrangers.onrender.com/" className="adss-btn">
+                  Live
+                </Link><Link to="https://github.com/satishsahu25/webrtc" className="adss-btn">
+                  Code
+                </Link>
+               </div>
+              </div>
+            </div>
+          </div>     
+
+          
+
+
+
+
+          
+
           {/*0*/}
         <div className="col-md-4 eachcard">
             <div className="card rounded">
