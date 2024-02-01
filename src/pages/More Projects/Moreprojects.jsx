@@ -23,6 +23,50 @@ const Moreprojects = () => {
         {/* cards container */}
         <div className="row" id="ads">
         {/* cards */}
+
+          {/*0*/}
+        <div className="col-md-4 eachcard">
+            <div className="card rounded">
+              <div className="card-img">
+                <span className="card-notify-badge">Full Stack</span>
+                <img
+                  src="https://res.cloudinary.com/codercloud/image/upload/v1706792698/Screenshot_3163_aabwhd.png"
+                  alt="project1"
+                />
+              </div>
+
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">Next.js</span>
+                <span className="card-detail-badge">React</span>
+                <span className="card-detail-badge">MongoDB</span>
+                <span className="card-detail-badge">Cloudinary</span>
+                <span className="card-detail-badge">HTML</span>
+                <span className="card-detail-badge">Css</span>
+                <span className="card-detail-badge">Motion</span>
+                <span className="card-detail-badge">Bootstrap</span>
+                <span className="card-detail-badge">JavaScript</span>
+                <span className="card-detail-badge">Stripe</span>
+              </div>
+
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <div className="text-uppercase">Responsive Ecommerce Website with Admin Panel </div>
+                </div>
+               <div className="d-flex">
+               <Link to="https://ebuy-three.vercel.app/" className="adss-btn">
+                  Live
+                </Link><Link to="https://github.com/satishsahu25/ebuy" className="adss-btn">
+                  Code
+                </Link>
+               </div>
+              </div>
+            </div>
+          </div>     
+
+
+
+
+          
           {/* 1 */}
           <div className="col-md-4 eachcard">
             <div className="card rounded">
