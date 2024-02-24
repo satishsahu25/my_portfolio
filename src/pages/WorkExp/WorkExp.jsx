@@ -20,21 +20,7 @@ const WorkExp = () => {
         <VerticalTimeline
         lineColor='#178871'
         >
-           <VerticalTimelineElement
-    
-            className="vertical-timeline-element--work"
-            contentStyle={{ background: "white", color: "black" }}
-            contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="2023 - Present"
-            iconStyle={{ background: "#138781", color: "white" }}
-            icon={<MdSchool />}
-          >
-            <h3 className="vertical-timeline-element-title">
-              System Engineer (Backend Developer)
-            </h3>
-            <h4 className="vertical-timeline-element-subtitle">Cessini Private Limited, Kolkata</h4>
-          
-          </VerticalTimelineElement> <VerticalTimelineElement
+          <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
