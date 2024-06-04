@@ -8,8 +8,7 @@ const About = () => {
         <div className="row">
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-img">
             {/*            https://res.cloudinary.com/codercloud/image/upload/v1693340468/satish_profimage_vrsdds.jpg" */}
-            <img src="
-            https://res.cloudinary.com/codercloud/image/upload/v1693340468/satish_profimage_vrsdds.jpg"
+            <img src="https://res.cloudinary.com/codercloud/image/upload/v1693340468/satish_profimage_vrsdds.jpg"
               /> 
           </div>
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
