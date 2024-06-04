@@ -27,7 +27,7 @@ const Education = () => {
             <h4 className="vertical-timeline-element-title">
               B.Tech & M.Tech in Biotechnology and Biochemical Engineering
             </h4>
-            <h6>CGPA: 8.77</h6>
+            <h6>CGPA: 8.83</h6>
             <h5 className="vertical-timeline-element-subtitle">IIT Kharagpur, West Bengal, India</h5>
           
           </VerticalTimelineElement> <VerticalTimelineElement
