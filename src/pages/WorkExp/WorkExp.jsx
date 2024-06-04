@@ -20,6 +20,45 @@ const WorkExp = () => {
         <VerticalTimeline
         lineColor='#178871'
         >
+
+            <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="Dec'2023 - Jan'2024"
+            iconStyle={{ background: "#138781", color: "white" }}
+            icon={<MdSchool />}
+          >
+            <h3 className="vertical-timeline-element-title">
+            Software Engineering Intern
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+          
+          </VerticalTimelineElement> 
+            
+
+<VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="Dec'2023 - Jan'2024"
+            iconStyle={{ background: "#138781", color: "white" }}
+            icon={<MdSchool />}
+          >
+            <h3 className="vertical-timeline-element-title">
+            Systems Engineer (Backend Engineer)
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">Kolkata, WestBengal</h4>
+          
+          </VerticalTimelineElement> 
+
+
+
+
+
+
+
+            
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
@@ -33,7 +72,13 @@ const WorkExp = () => {
             </h3>
             <h4 className="vertical-timeline-element-subtitle">Codespeedy Private Limited, Kolkata</h4>
           
-          </VerticalTimelineElement> <VerticalTimelineElement
+          </VerticalTimelineElement> 
+            
+            
+            
+            
+            
+            <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
