@@ -63,7 +63,7 @@ const WorkExp = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="Dec'2023 - Jan'2024"
+            date="Dec'2023 - Feb'2024"
             iconStyle={{ background: "#138781", color: "white" }}
             icon={<MdSchool />}
           >
