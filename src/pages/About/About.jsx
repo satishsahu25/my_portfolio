@@ -14,9 +14,9 @@ const About = () => {
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
             <h1>About me</h1>
             <p>
-             Myself Satish Sahu, I am a 4th year undergraduate student at IIT Kharagpur.
-             My interest lies in developing complex websites and softwares. My principles of life are hardwork, patience and knowledge. 
-             My hobbies include teaching, gymming and travelling...
+             Myself Satish Sahu, I am a final year undergraduate student at IIT Kharagpur.
+             My interest lies in developing complex websites and softwares. My principles of life are continuous learning, hardwork, patience, fail early and fail often. 
+             My hobbies include teaching, gymming, reading and travelling...
             </p>
           </div>
         </div>
