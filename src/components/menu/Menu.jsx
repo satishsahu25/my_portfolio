@@ -16,7 +16,7 @@ const Menu = ({ toggle }) => {
       {toggle ? (
         <>
           <div className="navbar-profilepic">
-            <img src="https://res.cloudinary.com/codercloud/image/upload/v1693340468/satish_profimage_vrsdds.jpg" />
+            <img src="https://res.cloudinary.com/codercloud/image/upload/v1757101764/IMG-20250419-WA0121_bclcws.jpg" />
             <h2 className="text-center text-white">Satish Sahu</h2>
           </div>
 
