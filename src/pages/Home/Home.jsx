@@ -32,7 +32,7 @@ const Home = () => {
          <h2>
             <Typewriter
               options={{
-                strings: ["AI!","Full Stack!", "Backend!","Frontend!","Mobile App!","Softwares!","Clouds!"],
+                strings: ["AI Engineer!","Full Stack Developer!", "Backend Engineer!","Frontend Engineer!","Mobile App Developer!","Software Engineer!","Cloud Infrastructure Engineer!"],
                 autoStart: true,
                 loop: true,
               }}
