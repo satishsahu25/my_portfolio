@@ -27,12 +27,12 @@ const Home = () => {
       </div>
         <div className="container home-content">
          <Fade right>
-         <h1 >Hi👋 I'm a </h1>
+         <h1 >Hi👋 I provide services </h1>
          <div className="typewriter">
          <h2>
             <Typewriter
               options={{
-                strings: ["Full Stack Developer!", "Backend Developer!","Frontend Developer!","Mobile App Developer!","Software Engineer!","Youtuber!"],
+                strings: ["AI!","Full Stack!", "Backend!","Frontend!","Mobile App!","Softwares!","Clouds!"],
                 autoStart: true,
                 loop: true,
               }}
@@ -40,10 +40,10 @@ const Home = () => {
           </h2>
          </div>
          </Fade>
-          <div className="home-buttons">
-            <Link to="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=satishk7619@gmail.com"><button className="btn btn-hire">Hire Me</button></Link>
+{/*           <div className="home-buttons">
+            <Link to="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=stsahu.work@gmail.com"><button className="btn btn-hire">Hire Me</button></Link>
             <a className="btn btn-cv" href={Resume} download="Satish Sahu">My Resume <BiSolidDownload/></a>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
