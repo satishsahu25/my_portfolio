@@ -21,6 +21,56 @@ const WorkExp = () => {
         lineColor='#178871'
         >
 
+
+        
+               <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="Sept'2025 - Present"
+            iconStyle={{ background: "#138781", color: "white" }}
+            icon={<MdSchool />}
+          >
+            <h3 className="vertical-timeline-element-title">
+           AI Engineer (Full Time)
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+          
+          </VerticalTimelineElement> 
+            
+               <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="June'2025 - Sept'2025"
+            iconStyle={{ background: "#138781", color: "white" }}
+            icon={<MdSchool />}
+          >
+            <h3 className="vertical-timeline-element-title">
+           AI Engineer (Intern)
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+          
+          </VerticalTimelineElement> 
+
+
+               <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="June'2025 - July'2025"
+            iconStyle={{ background: "#138781", color: "white" }}
+            icon={<MdSchool />}
+          >
+            <h3 className="vertical-timeline-element-title">
+            Software Engineer (Intern)
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">Dallas, Texas, USA</h4>
+          
+          </VerticalTimelineElement> 
+            
+
+            
             <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
@@ -30,9 +80,9 @@ const WorkExp = () => {
             icon={<MdSchool />}
           >
             <h3 className="vertical-timeline-element-title">
-            Software Engineering Intern
+           Cloud Infrastructure Engineer (Intern)
             </h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h4 className="vertical-timeline-element-subtitle">Minato Ku, Tokyo, Japan</h4>
           
           </VerticalTimelineElement> 
             
@@ -46,7 +96,7 @@ const WorkExp = () => {
             icon={<MdSchool />}
           >
             <h3 className="vertical-timeline-element-title">
-            Systems Engineer (Backend Engineer)
+            Systems and Backend Engineer (Intern)
             </h3>
             <h4 className="vertical-timeline-element-subtitle">Kolkata, WestBengal</h4>
           
@@ -68,7 +118,7 @@ const WorkExp = () => {
             icon={<MdSchool />}
           >
             <h3 className="vertical-timeline-element-title">
-              JavaScript Developer Intern
+              JavaScript Developer (Intern)
             </h3>
             <h4 className="vertical-timeline-element-subtitle">Codespeedy Private Limited, Kolkata</h4>
           
