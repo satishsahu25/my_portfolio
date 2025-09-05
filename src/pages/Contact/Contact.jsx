@@ -35,14 +35,14 @@ const Contact = () => {
                   <div className="row">
                     <h6>
                       Connect With me @
-                      <Link to="https://www.linkedin.com/in/satish-sahu-46b7a7229/">
+                      <Link to="https://www.linkedin.com/in/satishsahu25/">
                   
                         <BsLinkedin color="blue" className="ms-2" size={30} />
                       </Link>
                       <Link to="https://github.com/satishsahu25">
                         <BsGithub color="black" className="ms-2" size={30} />
                       </Link>
-                      <Link to="https://www.facebook.com/profile.php?id=100087199660369">
+                      <Link to="https://www.facebook.com/satishsahuv1/">
                      
                         <BsFacebook color="blue" className="ms-2" size={30} />
                       </Link>
@@ -92,7 +92,7 @@ const Contact = () => {
                     />
                   </div>
                   <div className="row px-3 mobilebtn">
-                    <Link to={`https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=satishk7619@gmail.com&body=My name is ${name} . I want to contact you regarding ${body}. My email address is ${email}`}>
+                    <Link to={`https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=stsahu.work@gmail.com&body=My name is ${name} . I want to contact you regarding ${body}. My email address is ${email}`}>
                     <button className="submit-btn" type="submit">
                       SEND MESSAGE
                     </button>
