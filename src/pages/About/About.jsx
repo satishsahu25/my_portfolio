@@ -8,15 +8,13 @@ const About = () => {
         <div className="row">
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-img">
            
-            <img src="https://res.cloudinary.com/codercloud/image/upload/v1726392175/459107118_535136522233779_2433225103441361271_n_bs5uw1.jpg"
+            <img src="https://res.cloudinary.com/codercloud/image/upload/v1757101764/IMG-20250419-WA0121_bclcws.jpg"
               /> 
           </div>
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
             <h1>About me</h1>
             <p>
-             Myself Satish Sahu, I am a final year undergraduate student at IIT Kharagpur.
-             My interest lies in developing complex websites and softwares. My principles of life are continuous learning, hardwork, patience, fail early and fail often. 
-             My hobbies include teaching, gymming, reading and travelling...
+             Hey, I’m Satish Sahu — AI Engineer at ITSO Inc. Japan and IIT Kharagpur (2025) graduate. On a mission to redefine how the world connects by building the next-gen of social media.
             </p>
           </div>
         </div>
