@@ -34,7 +34,7 @@ const WorkExp = () => {
             <h3 className="vertical-timeline-element-title">
            AI Engineer (Full Time)
             </h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h4 className="vertical-timeline-element-subtitle">ITSO Inc. Tokyo, Japan</h4>
           
           </VerticalTimelineElement> 
             
@@ -49,7 +49,7 @@ const WorkExp = () => {
             <h3 className="vertical-timeline-element-title">
            AI Engineer (Intern)
             </h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h4 className="vertical-timeline-element-subtitle">ITSO Inc. Tokyo, Japan</h4>
           
           </VerticalTimelineElement> 
 
@@ -65,7 +65,7 @@ const WorkExp = () => {
             <h3 className="vertical-timeline-element-title">
             Software Engineer (Intern)
             </h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, Texas, USA</h4>
+            <h4 className="vertical-timeline-element-subtitle">Abusiness Tech, Dallas, Texas, USA</h4>
           
           </VerticalTimelineElement> 
             
@@ -82,7 +82,7 @@ const WorkExp = () => {
             <h3 className="vertical-timeline-element-title">
            Cloud Infrastructure Engineer (Intern)
             </h3>
-            <h4 className="vertical-timeline-element-subtitle">Minato Ku, Tokyo, Japan</h4>
+            <h4 className="vertical-timeline-element-subtitle">ITSO Inc. Minato Ku, Tokyo, Japan</h4>
           
           </VerticalTimelineElement> 
             
@@ -98,7 +98,7 @@ const WorkExp = () => {
             <h3 className="vertical-timeline-element-title">
             Systems and Backend Engineer (Intern)
             </h3>
-            <h4 className="vertical-timeline-element-subtitle">Kolkata, WestBengal</h4>
+            <h4 className="vertical-timeline-element-subtitle">Cessini Pvt Ltd, Kolkata, WestBengal</h4>
           
           </VerticalTimelineElement> 
 
